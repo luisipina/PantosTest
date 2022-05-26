@@ -1,0 +1,447 @@
+- <site-list version="1">
+- <created-by>
+  <tool>EMIESiteListManager</tool> 
+  <version>12.0.0.0</version> 
+  <date-created>05/11/2022 05:14:05</date-created> 
+  </created-by>
+  <shared-cookie domain=".lxpantos.com" name="MYSAPSSO2" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="aat" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="adtAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="adtUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="adtdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="adtevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="aicarAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="aicarUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="at" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="aua" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="awmsTstAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="awmsTstUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="awmspAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="awmspUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="biddevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="biddevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="bidprdAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="bidprdUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="bidqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="bidqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="cpsAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="cpsUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="cpsdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="cpsdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="custdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="custdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="custqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="custqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="devat" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="devlat" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="devlua" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="devua" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="eaeqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="eceAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="eceUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecelocAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecelocUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="eceqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecetestAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecetestUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecpAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecpUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecplocAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecplocUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecplqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecplqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecwAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecwUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecwlocAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecwlocUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecwqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ecwqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="edmsdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="edmsdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="edmsprdAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="edmsprdUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="edmsqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="edmsqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epantosqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epantosqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epbidAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epbidUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epcustAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epcustUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epgsiAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epgsiUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epprtAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epprtUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epprtdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epprtdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epprtqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epprtqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="epqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ffdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ffdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ffqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ffqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="fipqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="fipqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ftvAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ftvUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ftvdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ftvdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ftvqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ftvqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="gat" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ghrAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ghrUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ghrdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ghrdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ghrqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ghrqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ghrsAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ghrsUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="gowlocAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="gowlocUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="gowpAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="gowpUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="gsiTstAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="gsiTstUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="gua" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="iaprdAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="iaprdUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="iaqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="iaqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="iat" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="icfrdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="icfrdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="icfrprdAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="icfrprdUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ifmAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ifmUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="injangqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="injangqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="iua" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="labAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="labUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="lat" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="lua" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="misAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="misUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="misdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="misdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="misoAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="misoUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mmsAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mmsUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mmsdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mmsdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mogsiLoAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mogsiLoUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mogsidevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mogsidevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mpsAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mpsUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mpsdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mpsdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mpstestAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="mpstestUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ngffdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ngffdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ngffqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ngffqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="palsdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="palsdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="palspAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="palspUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="palsqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="palsqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="partqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="partqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="pimsAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="pimsUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="pimslocAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="pimslocUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="pimsqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="pimsqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="qboaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="qboaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="qbolocAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="qbolocUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="saasAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="saasUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="saasdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="saasdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="secdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="secdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="spalocAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="spalocUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="sptAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="sptUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="sptqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="sptqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="stampAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="stampUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="stamploAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="stamploUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="testAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="testUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="testat" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="testjsjpUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="testjspAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="testua" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsnewAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsnewUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsnewdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsnewdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsnewlocAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsnewlocUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsnewqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsnewqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmspAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmspUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="tmsqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totdevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totdevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totprdAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totprdUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totprdmUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totprtmAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totqa2AT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totqa2UA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totqamoAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="totqamoUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="ua" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="visidevAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="visidevUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="visqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="visqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="wmaqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="wmgprdAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="wmgprdTstAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="wmgprdTstUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="wmgprdUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="wmsqaAT" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="wmsqaUA" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="wmswaUA" source-engine="Both" /> 
+  <shared-cookie domain=".pantos.com" name="MYSAPSSO2" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="SAPPORTALSDB0" source-engine="Both" /> 
+  <shared-cookie domain=".lxpantos.com" name="LtpaToken" source-engine="Both" /> 
+- <site url="cn.clis.lge.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="gsi.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="pantosway.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="partner.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="customer.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="ftv.lge.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="ftvtot.lge.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="bid.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="g-hr.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="edmsprd.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="htls.lge.co.kr" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="ehtls.lge.co.kr" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="wmgprd.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="totprd.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE7</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="totqa.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE7</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="10.86.225.28" comment="" flagged="false">
+  <compat-mode>IE7</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="totloc.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE7</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="lxpantos.com" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">MSEdge</open-in> 
+  </site>
+- <site url="mail.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="epqa.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="partnerqa.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="customerqa.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="pke-tms-tm.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE11</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="ssoprd.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="ssodev.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="127.0.0.1" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="rp.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="pantosway1.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="pantosway2.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="yeulm01.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="yeulm02.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="yeulm03.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="mail1.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="mail2.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="mail3.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="mail4.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="mail5.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="mail6.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="mail6.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="china1.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="china2.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="china2.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="usa1.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="usa2.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="europe1.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="europe2.lxpantos.com" comment="" flagged="false">
+  <compat-mode>IE5</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="sso.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="analysisdsb.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="g-hrqa.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="bidprd.lxpantos.com" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="10.86.224.82" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="10.86.224.83" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+- <site url="192.168.33.17" comment="" flagged="false">
+  <compat-mode>Default</compat-mode> 
+  <open-in allow-redirect="true">IE11</open-in> 
+  </site>
+  </site-list>
